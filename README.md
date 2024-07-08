@@ -1,2 +1,2 @@
 # data-science-practice
- mini data analysis projects
+storage mini data analysis projects
